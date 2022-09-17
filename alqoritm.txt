@@ -1,0 +1,7 @@
+input m
+ m/2
+if 
+ rəqəm təkdi m+2
+else
+ rəqəm cütti m-2
+ end
